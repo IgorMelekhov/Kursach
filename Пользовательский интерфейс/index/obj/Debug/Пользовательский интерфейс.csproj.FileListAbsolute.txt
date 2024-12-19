@@ -1,0 +1,34 @@
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\MainWindow.g.cs
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\PageInfo.g.cs
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\App.g.cs
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс_MarkupCompile.cache
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс_MarkupCompile.lref
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\bin\Debug\Пользовательский интерфейс.exe.config
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\bin\Debug\Пользовательский интерфейс.exe
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\bin\Debug\Пользовательский интерфейс.pdb
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\MainWindow.baml
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\PageInfo.baml
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.g.resources
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\Пользовательский_интерфейс.Properties.Resources.resources
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.exe
+D:\Users\1213-3\Documents\3-ИСП\Дисциплина\Фамилия\Мелехов_курсовик\WPF\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.pdb
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\bin\Debug\Пользовательский интерфейс.exe.config
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\bin\Debug\Пользовательский интерфейс.exe
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\bin\Debug\Пользовательский интерфейс.pdb
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.csproj.AssemblyReference.cache
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\MainWindow.g.cs
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\PageInfo.g.cs
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\App.g.cs
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс_MarkupCompile.cache
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс_MarkupCompile.lref
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\MainWindow.baml
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\PageInfo.baml
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.g.resources
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\Пользовательский_интерфейс.Properties.Resources.resources
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.csproj.GenerateResource.cache
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.csproj.CoreCompileInputs.cache
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.exe
+C:\Users\79537\Source\Repos\Kursach\Пользовательский интерфейс\index\obj\Debug\Пользовательский интерфейс.pdb
